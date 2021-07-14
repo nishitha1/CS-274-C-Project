@@ -1,4 +1,4 @@
-# CS-274C Final Project
+## CS-274C Final Project - Tag Prediction on Stack Exchange Posts
 ## Introduction
 A very important application of text and data mining (TDM) is the identification of
 keywords or tags from input text. This is especially useful in the case of Question
